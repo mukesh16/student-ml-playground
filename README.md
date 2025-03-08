@@ -15,7 +15,7 @@ A web-based interactive platform for students to upload datasets, train machine 
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/student-ml-playground.git
+git clone https://github.com/mukesh16/student-ml-playground.git
 cd student-ml-playground
 ```
 
@@ -90,5 +90,3 @@ git push -u origin main
 - Cloud-based storage for datasets  
 
 ---
-
-Now you’re all set! Let me know if you need any modifications before deployment.
